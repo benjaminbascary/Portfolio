@@ -13,15 +13,17 @@
     bottom: 0pt;
     left: 0pt;
     background-color: azure;
+    position: fixed;
 }
 
-.footer > p {
+.footer--text {
     font-size: 12px;
     font-family:Roboto Mono;
     padding-left: 100px;
 }
 
-.footer > a {
+.footer--link {
+    font-size: 12px;
     display: flex;
     padding: 0;
     padding-left: 100px;
