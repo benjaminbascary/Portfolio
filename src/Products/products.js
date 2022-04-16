@@ -6,7 +6,7 @@ export const products = [
     },
     {
         link: "https://google.com",
-        img: "",
+        img: "./issuetracker.png",
         key: 1
     },
     {
