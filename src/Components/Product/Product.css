@@ -1,0 +1,46 @@
+
+
+.product {
+    width: 50%;
+    height: 40vh;
+    margin: 30px 4px;
+    border: 1px solid rgb(205, 205, 205);
+    border-radius: 10px 10px 0px 0px;
+    overflow: hidden;
+
+    transition: 0,5s;
+    overflow: hidden;
+}
+
+
+.browser {
+   height: 20px;
+   background-color: azure; 
+   display: flex;
+   align-items: center;
+}
+
+.circle {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: black;
+    margin: 3px;
+}
+
+
+
+.product--image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: all 2s ease;
+    
+}
+
+.product--image:hover {
+    cursor: pointer;
+    filter: opacity(0%);
+    transition: 5s;
+    transform: translateX(-50%);
+}

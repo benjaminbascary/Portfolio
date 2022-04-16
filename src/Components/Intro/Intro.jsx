@@ -13,7 +13,7 @@ export const Intro = () => {
               <div className='intro--title'>
                 <div className='intro--title--wrapper'>
                   <div className='intro--title--item'>
-                    Web Developer
+                    Front-End Developer
 
                     <div className='intro--title--item'>
                       Photographer
@@ -24,10 +24,13 @@ export const Intro = () => {
                   </div>
                 </div>
                 <div className='intro--description'>
-                  Looking for my first IT job. My favorite tech is React
+                  Looking for my first IT job. My favorite tech is <strong>React</strong>
                 </div>
                 <div className='intro--description'>
                   Wanting to learn something new every day!
+                </div>
+                <div className='intro--description'>
+                  <strong>Hoping to someday transition to Full Stack</strong>
                 </div>
                 <div className='scroll--container'>
                   <img src={Scroll} className='scroll--icon' alt='scroll'></img>
