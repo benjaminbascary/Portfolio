@@ -29,7 +29,7 @@ export const ProductList = () => {
             <p><i>Express</i></p>
             <p><i>React</i></p>
             <br></br>
-            <a href='https://github.com/benjaminbascary/bug_tracker_mern' target="_blank" rel="noreferrer">Repository</a>
+            <a href='https://github.com/benjaminbascary/issue_tracker_mern_portfolio' target="_blank" rel="noreferrer">Repository</a>
           </div >
           <div className='product--description'>
             <h4><strong>UNESCO hackatón</strong></h4>
