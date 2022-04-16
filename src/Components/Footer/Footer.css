@@ -21,13 +21,10 @@
 }
 
 .footer > a {
-    font-size: 12px;
-    font-family: Roboto Mono;
-}
-
-a {
     display: flex;
     padding: 0;
     padding-left: 100px;
     padding-right: 100px;
+    font-size: 12px;
+    font-family: Roboto Mono;
 }

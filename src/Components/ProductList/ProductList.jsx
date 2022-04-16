@@ -21,7 +21,7 @@ export const ProductList = () => {
             <p><i>React</i></p>
             <p><i>Express</i></p>
             <br></br>
-            <a href='https://github.com/benjaminbascary' target="_blank" rel="noreferrer">Repository</a>
+            <a href='https://github.com/benjaminbascary/Pokedex_React' target="_blank" rel="noreferrer">Repository</a>
           </div>
           <div className='product--description'>
             <h4><strong>Issue Tracker</strong></h4>
@@ -29,15 +29,15 @@ export const ProductList = () => {
             <p><i>Express</i></p>
             <p><i>React</i></p>
             <br></br>
-            <a href='https://github.com/benjaminbascary' target="_blank" rel="noreferrer">Repository</a>
+            <a href='https://github.com/benjaminbascary/bug_tracker_mern' target="_blank" rel="noreferrer">Repository</a>
           </div >
           <div className='product--description'>
             <h4><strong>UNESCO hackatón</strong></h4>
-            <p><i>Multitecnology Colaborative Project</i></p>
-            <p><i>JavaScript</i></p>
+            <p><i>Colaborative Project (in progress)</i></p>
+            <p><i>React</i></p>
             <p><i>Python</i></p>
             <br></br>
-            <a href='https://github.com/benjaminbascary' target="_blank" rel="noreferrer">Link</a>
+            <a href='https://icts-for-indigenous-languages.hackerearth.com/#overview' target="_blank" rel="noreferrer">Link</a>
           </div>
         </div>
         

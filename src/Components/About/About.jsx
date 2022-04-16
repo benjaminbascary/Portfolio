@@ -13,6 +13,9 @@ export const About = () => {
     <div className='about--right'>
       <div className='about--right--text'>
         <h1 className='about--right--title'>About Me</h1>
+        <h3 className='about--right--presentation'>
+          I Love working with <strong>JavaScript</strong> and <strong>React</strong>.
+        </h3>
         <h2 className='about--right--presentation'>
           Living in Patagonia. On my spare time I am a photographer. I consider myself a proactive person. Speak english and french.
         </h2>

@@ -6,12 +6,12 @@ export const products = [
     },
     {
         link: "https://google.com",
-        img: "../../resources/pokedex.png",
+        img: "",
         key: 1
     },
     {
-        link: "https://google.com",
-        img: "../../resources/pokedex.png",
+        link: "https://icts-for-indigenous-languages.hackerearth.com/#overview",
+        img: "https://pbs.twimg.com/profile_images/1052572124358037504/UP-axoKx_400x400.jpg",
         key: 2
     }
 ];

@@ -30,7 +30,7 @@ export const Intro = () => {
                   Wanting to learn something new every day!
                 </div>
                 <div className='intro--description'>
-                  <strong>Hoping to someday transition to Full Stack</strong>
+                  <strong>Hoping to someday transition to React Native</strong>
                 </div>
                 <div className='scroll--container'>
                   <img src={Scroll} className='scroll--icon' alt='scroll'></img>
