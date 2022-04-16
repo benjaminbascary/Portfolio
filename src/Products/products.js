@@ -1,12 +1,12 @@
 export const products = [
     {
         link: "https://benjaminbascary.github.io/Pokedex_React/",
-        img: "./pokedex.png",
+        img: "https://i.ibb.co/Z1XYd6t/pokedex.png",
         key: 0
     },
     {
         link: "https://google.com",
-        img: "./issuetracker.png",
+        img: "https://i.ibb.co/JvMkWT2/issuetracker.png",
         key: 1
     },
     {
