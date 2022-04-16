@@ -2,6 +2,7 @@ import React from 'react';
 import "./Contact.css";
 import Phone from "../../resources/phone.png"
 import Email from "../../resources/mail.png"
+import Github from "../../resources/github.png"
 export const Contact = () => {
 return (
   <div className='contact'>
@@ -20,10 +21,14 @@ return (
               <img className='icon' src={Email} alt='icon'></img>
               benjaminbascary@gmail.com
             </div>
+            <div className='contact--info--item'>
+              <img className='icon' src={Github} alt='icon'></img>
+              github.com/benjaminbascary
+            </div>
           </div>
         </div>
         <div className='contact--right'>
-          <h1>Let's talk!</h1>
+          <h1># Let's talk!</h1>
           <div className='contact--profile--background'></div>
         </div>
       </div>

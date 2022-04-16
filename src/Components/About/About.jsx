@@ -14,7 +14,7 @@ export const About = () => {
       <div className='about--right--text'>
         <h1 className='about--right--title'>About Me</h1>
         <h2 className='about--right--presentation'>
-          Living in Patagonia. In my spare time I am a photographer. I consider myself a proactive person. Speak english and french.
+          Living in Patagonia. On my spare time I am a photographer. I consider myself a proactive person. Speak english and french.
         </h2>
         <h2 className='about--right--presentation'>
           When Im not at home, I am at Comahue National University.

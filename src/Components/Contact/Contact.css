@@ -1,13 +1,13 @@
 .contact {
   height: 100vh;
   position: relative;
-  background-color: rgb(36, 195, 195);
+  background-color: rgb(88, 213, 213);
 }
 
 .contact--bg {
   width: 20px;
   height: 100%;
-  background-color: blueviolet;
+  background-color: rgb(182, 129, 230);
   position: absolute;
 }
 
@@ -57,7 +57,7 @@
   position: absolute;
   top: 0;
   right: 0;
-  filter: opacity(40%);
+  filter: opacity(20%);
 }
 
 .contact--right {
@@ -69,7 +69,7 @@
 
 .contact--right > h1 {
   position: relative;
-  font-size: 20vh;
+  font-size: 18vh;
   margin-left: 15vh;
   color: white;
 };

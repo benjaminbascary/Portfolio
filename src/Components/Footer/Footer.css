@@ -1,0 +1,33 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height:18px;
+    width: 100%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    position: fixed;
+    bottom: 0pt;
+    left: 0pt;
+    background-color: azure;
+}
+
+.footer > p {
+    font-size: 12px;
+    font-family:Roboto Mono;
+    padding-left: 100px;
+}
+
+.footer > a {
+    font-size: 12px;
+    font-family: Roboto Mono;
+}
+
+a {
+    display: flex;
+    padding: 0;
+    padding-left: 100px;
+    padding-right: 100px;
+}
