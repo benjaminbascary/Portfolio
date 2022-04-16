@@ -31,6 +31,7 @@
 }
 
 .contact--info {
+  padding: 0px;
   display: flex;
   flex-direction: column
 }
@@ -42,6 +43,7 @@
 }
 
 .contact--info--item {
+  padding: 0px;
   margin-bottom: 40px;
   font-size: 40px;
   color: black;
@@ -73,3 +75,49 @@
   margin-left: 15vh;
   color: white;
 };
+
+@media screen and (max-width: 480px) {
+  .icon {
+    display: none;
+  }
+
+  .contact--right {
+    display: none;
+  }
+
+  .contact--right > h1{
+    display: none;
+  }
+
+  .contact {
+    font-size: 20px;
+  }
+
+  .contact--profile--background{
+    display: none;
+  }
+
+  .contact--left {
+
+  }
+  
+  .contact--right {
+    display: none;
+  }
+
+  .contact--info--item {
+    font-weight: lighter;
+  }
+  
+  .contact--left {
+    width: 480px;
+  }
+
+  .contact--title {
+    display: none;
+  }
+
+  .contact--info--item > div{
+    display: none;
+  }
+}

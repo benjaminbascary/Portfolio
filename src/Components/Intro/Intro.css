@@ -88,3 +88,36 @@
     padding-left: 21vh;
 }
 
+
+@media screen and (max-width: 480px) {
+    .intro--name {
+        margin-top: 0;
+        padding-top: 0;
+        font-size: 30px;
+    }
+
+    .profile--picture {
+        display: none;
+    }
+
+    .scroll-container {
+        display: none;
+    }
+    
+    .scroll--icon {
+        display: none;
+    }
+
+    .intro--greeting {
+        margin-bottom: 0px;
+        font-size: 20px;
+    }
+
+    .intro--description {
+        font-size: 20px;
+    }
+
+    
+    
+}
+

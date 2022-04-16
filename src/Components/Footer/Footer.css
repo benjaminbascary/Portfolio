@@ -31,3 +31,21 @@
     font-size: 12px;
     font-family: Roboto Mono;
 }
+
+@media screen and (max-width: 480px) {
+    .footer {
+        width: 480px;
+        position: fixed;
+        top: 0;
+    }
+
+    .footer--text {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .footer--link {
+        padding-left: 10px;
+        padding-right: 10px;   
+    }
+}

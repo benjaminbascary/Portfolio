@@ -52,3 +52,17 @@
   font-size: 3vh;
   font-weight: 400;
 }
+
+@media screen and (max-width: 480px) {
+  .about--left {
+    display: none;
+  }
+
+  .about {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: rgb(205, 255, 238);
+    padding: 40px;
+  }
+}
