@@ -77,47 +77,16 @@
 };
 
 @media screen and (max-width: 480px) {
-  .icon {
-    display: none;
-  }
-
-  .contact--right {
-    display: none;
-  }
-
-  .contact--right > h1{
-    display: none;
-  }
-
-  .contact {
-    font-size: 20px;
-  }
-
-  .contact--profile--background{
-    display: none;
-  }
-
-  .contact--left {
-
-  }
-  
-  .contact--right {
-    display: none;
-  }
-
   .contact--info--item {
-    font-weight: lighter;
-  }
-  
-  .contact--left {
-    width: 480px;
-  }
-
-  .contact--title {
-    display: none;
+    padding: 0px;
+    font-size: 18px;
+    color: black;
+    display: flex;
+    align-items: center;
+    width: 100px;
   }
 
-  .contact--info--item > div{
-    display: none;
+  .contact--info--item > div {
+    font-size: 18px;
   }
 }
