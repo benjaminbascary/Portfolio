@@ -32,12 +32,13 @@ export const ProductList = () => {
             <a href='https://github.com/benjaminbascary/issue_tracker_mern_portfolio' target="_blank" rel="noreferrer">Repository</a>
           </div >
           <div className='product--description'>
-            <h4><strong>UNESCO hackatón</strong></h4>
-            <p><i>Colaborative Project (in progress)</i></p>
+            <h4><strong>functional E-Commerce</strong></h4>
+            <p><i>Challenge for ScandiWeb</i></p>
             <p><i>React</i></p>
-            <p><i>Python</i></p>
+            <p><i>GraphQl</i></p>
+            <p><i>Cypress</i></p>
             <br></br>
-            <a href='https://icts-for-indigenous-languages.hackerearth.com/#overview' target="_blank" rel="noreferrer">Link</a>
+            <a href='https://github.com/benjaminbascary/scandiweb_juniorreact_benjaminbascary' target="_blank" rel="noreferrer">Repository</a>
           </div>
         </div>
         

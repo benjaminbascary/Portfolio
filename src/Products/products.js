@@ -10,8 +10,8 @@ export const products = [
         key: 1
     },
     {
-        link: "https://icts-for-indigenous-languages.hackerearth.com/#overview",
-        img: "https://pbs.twimg.com/profile_images/1052572124358037504/UP-axoKx_400x400.jpg",
+        link: "https://github.com/benjaminbascary/scandiweb_juniorreact_benjaminbascary",
+        img: "https://i.ibb.co/6R1B9QD/screenshot.png",
         key: 2
     }
 ];
