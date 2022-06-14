@@ -15,7 +15,7 @@ return (
           <div className='contact--info'>
             <div className='contact--info--item'>
               <img className='icon' src={Phone} alt='icon'></img>
-              <p>+54 9 11 59495066</p>
+              <p>Not available at the moment!</p>
             </div>
             <div className='contact--info--item'>
               <img className='icon' src={Email} alt='icon'></img>
